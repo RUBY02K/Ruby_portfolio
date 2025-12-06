@@ -1,0 +1,20 @@
+[
+    {
+        "key": 1,
+        "title": "SMART TRAFFIC MANAGEMENT SYSTEM",
+        "imagesrc": "/hero/smart.jpg",
+        "description":"  AI-Powered Traffic Monitoring .It uses AI, Computer Vision, and Deep Learning for real-time traffic enforcement, including ANPR, vehicle classification, and violation detection",
+        "demo": "https://github.com/RUBY02K/ANPR_and_ATCC_for_Smart_Traffic_Management ",
+        "source": " https://github.com/RUBY02K/ANPR_and_ATCC_for_Smart_Traffic_Management"
+    },
+    {
+        "key": 1,
+        "title": "SMART TRAFFIC MANAGEMENT SYSTEM",
+        "imagesrc": "/hero/smart.jpg",
+        "description":"  AI-Powered Traffic Monitoring .It uses AI, Computer Vision, and Deep Learning for real-time traffic enforcement, including ANPR, vehicle classification, and violation detection",
+        "demo": "https://github.com/RUBY02K/ANPR_and_ATCC_for_Smart_Traffic_Management ",
+        "source": " https://github.com/RUBY02K/ANPR_and_ATCC_for_Smart_Traffic_Management"
+    }
+    
+    
+]

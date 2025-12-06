@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "role": "Artificial Intelligence - Intern",
+    "organization": "Infosys Springboard",
+    "startdate": "Feb 6, 2025",
+    "enddate": "March 25, 2025",
+    "location": " Loctaion : Remote",
+    "experiences": [
+      "Built a real-time ANPR traffic system using YOLOv8, Tesseract OCR, and Flask for backend workflows.",
+"Collaborated with a 25-member Pan-India team, ensuring clean documentation and agile development."
+    ],
+    "keylearnings": [
+     "Key Learnings:",
+"• Gained hands-on experience in real-time CV workflows, YOLOv8 detection, and OCR optimization.",
+"• Improved backend development skills through Python scripting and Flask APIs.",
+"• Strengthened teamwork, communication, documentation practices, and structured problem-solving."
+    ],
+    "TechStack":[ "TechStack", " : ","Python · OpenCV · YOLOv8 · Tesseract OCR · Flask · React · Git"],
+    "imgsrc": "company/infosys.webp"
+  }
+]

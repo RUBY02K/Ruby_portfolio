@@ -1,0 +1,42 @@
+[
+    {
+        "title": "JAVA",
+        "imageSrc": "skills/java.webp"
+    },
+    {
+        "title": "PYTHON",
+        "imageSrc": "skills/python.webp"
+    },
+    {
+        "title": "SQL",
+        "imageSrc": "skills/mysql.webp"
+    },
+     {
+        "title": "SPRINGBOOT",
+        "imageSrc": "skills/springboot.png"
+    },
+    {
+        "title": "HTML",
+        "imageSrc": "skills/html.png"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css.png"
+    },
+    {
+        "title": "JAVASCRIPT",
+        "imageSrc": "skills/javascript.png"
+    },
+    {
+        "title": "REACT",
+        "imageSrc": "skills/react.png"
+    },
+    {
+        "title": "FIREBASE",
+        "imageSrc": "skills/firebase.png"
+    },
+    {
+        "title": "FIGMA",
+        "imageSrc": "skills/figma.png"
+    }
+]

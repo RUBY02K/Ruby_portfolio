@@ -1,0 +1,18 @@
+# Fuzzy Set Operations in Python
+
+U = [1, 2, 3, 4, 5]
+A = [0.3, 0.4, 0.8, 1.0, 0.5]
+B = [0.3, 0.6, 0.7, 0.1, 0.5]
+
+Union = [max(A[i], B[i]) for i in range(len(U))]
+Intersection = [min(A[i], B[i]) for i in range(len(U))]
+Complement_A = [1 - val for val in A]
+Complement_B = [1 - val for val in B]
+
+print("Fuzzy Set Operations\n")
+print("Name: Ruby Kushwah")
+print("Enrollment No: 22100BTCSE11739\n")
+
+print("U\tA\tB\tA∪B\tA∩B\tA'\tB'")
+for i in range(len(U)):
+    print(f"{U[i]}\t{A[i]:.1f}\t{B[i]:.1f}\t{Union[i]:.1f}\t{Intersection[i]:.1f}\t{Complement_A[i]:.1f}\t{Complement_B[i]:.1f}")
