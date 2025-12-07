@@ -1,6 +1,20 @@
 {
+  "name": "ruby-portfolio",
+  "version": "1.0.0",
+  "private": true,
   "dependencies": {
     "aos": "^2.3.4",
-    "react-icons": "^5.5.0"
+    "react-icons": "^5.5.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^4.4.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   }
 }
