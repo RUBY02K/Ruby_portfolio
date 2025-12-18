@@ -10,7 +10,7 @@
    {
   "key": 2,
   "title": "Full Stack Java Journaling Application",
-  "imagesrc": "/hero/journal.jpg",
+  "imagesrc": "/hero/journal.png",
   "description": "A full-stack journaling application built using Spring Boot, MySQL, and React. It allows users to write, view, archive, and manage journal entries with checklist support, dark/light mode, and a clean notebook-style UI. The project follows layered architecture and demonstrates frontend-backend integration using REST APIs.",
   "demo": "https://react-journal-ui-chri.vercel.app/",
   "source": "https://github.com/RUBY02K/react-journal-ui"
