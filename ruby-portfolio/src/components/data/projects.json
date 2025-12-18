@@ -3,7 +3,7 @@
         "key": 1,
         "title": "SMART TRAFFIC MANAGEMENT SYSTEM",
         "imagesrc": "/hero/smart.jpg",
-        "description":"  AI-Powered Traffic Monitoring .It uses AI, Computer Vision, and Deep Learning for real-time traffic enforcement, including ANPR, vehicle classification, and violation detection",
+        "description":"AI-Powered Traffic Monitoring uses AI, Computer Vision, and Deep Learning for real-time traffic enforcement, including ANPR, vehicle classification, and violation detection, with automated analytics to improve road safety, reduce congestion, and support smart city traffic management.",
         "demo": "https://github.com/RUBY02K/ANPR_and_ATCC_for_Smart_Traffic_Management ",
         "source": " https://github.com/RUBY02K/ANPR_and_ATCC_for_Smart_Traffic_Management"
     },
@@ -12,8 +12,8 @@
   "title": "Full Stack Java Journaling Application",
   "imagesrc": "/hero/journal.png",
   "description": "A full-stack journaling application built using Spring Boot, MySQL, and React. It allows users to write, view, archive, and manage journal entries with checklist support, dark/light mode, and a clean notebook-style UI. The project follows layered architecture and demonstrates frontend-backend integration using REST APIs.",
-  "demo": "https://github.com/RUBY02K/react-journal-ui",
-  "source":  "https://react-journal-ui-chri.vercel.app/"
+  "demo": "https://react-journal-ui-chri.vercel.app/",
+  "source":"https://github.com/RUBY02K/react-journal-ui"
 }
 
     
