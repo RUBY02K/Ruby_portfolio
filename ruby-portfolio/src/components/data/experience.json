@@ -1,22 +1,57 @@
 [
   {
     "id": 1,
-    "role": "Artificial Intelligence - Intern",
-    "organization": "Infosys Springboard",
-    "startdate": "Feb 6, 2025",
-    "enddate": "March 25, 2025",
-    "location": " Loctaion : Remote",
+    "role": "Artificial Intelligence Intern",
+    "organization": "IBM PBEL Program",
+    "startdate": "Feb 2026",
+    "enddate": "Apr 2026",
+    "location": "Remote",
     "experiences": [
-      "Built a real-time ANPR traffic system using YOLOv8, Tesseract OCR, and Flask for backend workflows.",
-"Collaborated with a 25-member Pan-India team, ensuring clean documentation and agile development."
+      "Developed a Fake News Detection system using NLP (TF-IDF, Logistic Regression), achieving around 90% accuracy on real-world datasets.",
+      "Built an end-to-end Machine Learning pipeline including data preprocessing, feature engineering, model training, and evaluation."
     ],
     "keylearnings": [
-     "Key Learnings:",
-"• Gained hands-on experience in real-time CV workflows, YOLOv8 detection, and OCR optimization.",
-"• Improved backend development skills through Python scripting and Flask APIs.",
-"• Strengthened teamwork, communication, documentation practices, and structured problem-solving."
+      "Hands-on experience with Natural Language Processing.",
+      "Improved Machine Learning model building and evaluation skills.",
+      "Strengthened data preprocessing and feature engineering techniques."
     ],
-    "TechStack":[ "TechStack", " : ","Python · OpenCV · YOLOv8 · Tesseract OCR · Flask · React · Git"],
+    "TechStack": [
+      "Python",
+      "Scikit-learn",
+      "TF-IDF",
+      "Logistic Regression",
+      "Pandas",
+      "NumPy",
+      "Git"
+    ],
+
+    
+    "imgsrc": "company/ibm.jpg"
+  },
+  {
+    "id": 2,
+    "role": "Artificial Intelligence Intern",
+    "organization": "Infosys Springboard",
+    "startdate": "Feb 2025",
+    "enddate": "Mar 2025",
+    "location": "Remote",
+    "experiences": [
+      "Engineered a real-time ANPR traffic monitoring system using YOLOv8, OpenCV, and Tesseract OCR for vehicle detection and number plate recognition.",
+      "Collaborated in a 25-member Pan-India team following Agile practices and maintaining structured technical documentation."
+    ],
+    "keylearnings": [
+      "Gained hands-on experience with Computer Vision and OCR.",
+      "Built backend workflows using Python and Flask.",
+      "Strengthened teamwork, Agile development, and technical documentation skills."
+    ],
+    "TechStack": [
+      "Python",
+      "OpenCV",
+      "YOLOv8",
+      "Tesseract OCR",
+      "Flask",
+      "Git"
+    ],
     "imgsrc": "company/infosys.webp"
   }
 ]

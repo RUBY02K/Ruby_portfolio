@@ -30,13 +30,6 @@
     {
         "title": "REACT",
         "imageSrc": "skills/react.png"
-    },
-    {
-        "title": "FIREBASE",
-        "imageSrc": "skills/firebase.png"
-    },
-    {
-        "title": "FIGMA",
-        "imageSrc": "skills/figma.png"
     }
+   
 ]
