@@ -14,7 +14,7 @@ const Home = () => {
         "Java Backend Developer",
         "AI & Spring Boot Enthusiast"
       ],
-      typeSpeed: 50,
+      typeSpeed: 60,
       backSpeed: 40,
       loop: true,
     });
