@@ -1,7 +1,7 @@
 import React, { useEffect, useRef } from "react";
 import pdf from "../pdf/rubyresume1.pdf";
 import hero from "./data/hero.json";
-import education from "./data/education.json";
+import education from "./data/Education.json";
 import Typed from "typed.js";
 
 const Home = () => {
