@@ -15,7 +15,7 @@ const Contact = () => {
       data-aos-duration = "1000">
           
           <a
-            href="https://www.instagram.com/your_username"
+            href="https://www.instagram.com/"
             target="_blank"
             rel="noreferrer"
             className="items"
